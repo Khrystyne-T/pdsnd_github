@@ -1,15 +1,5 @@
-### Date created
-Include the date you created this project and README file.
+# Udacity Bikeshare Project
 
-### Project Title
-Replace the Project Title
+This is the second project for Udacity's Programming for Data Science with Python Nanodegree Program where bike ride-share data for a few select cities (New York, Chicago, and Washington, DC) are used to create a terminal application that gives a set of summary statistics for each city.
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+ The project and implementation is done using Python 3.
