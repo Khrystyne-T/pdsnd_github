@@ -317,6 +317,7 @@ def raw_data(df):
 
     return df.sample(5)
 
+#add all function created here so that code will run smoothly
 
 def main():
     while True:
@@ -340,7 +341,7 @@ def main():
         get_years_of_birth(df)
         raw_data(df)
 
-        
+
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
